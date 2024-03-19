@@ -1,0 +1,52 @@
+header{
+    background-color: aquamarine;
+    font-family: sans-serif;
+    border: 1rem solid black;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+form{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    border: 1rem solid black;
+    border-radius: 0.5rem;
+    border-style:groove;
+    width: fit-content;
+}
+
+input{
+    width: 15rem;
+    margin: 0.5rem;
+}
+
+#botonLogin{
+    width: 15rem;
+    margin: 1rem;
+    border: 0.25rem solid black;
+    background-color: aquamarine;
+
+}
+
+.card{
+    border: 0.25rem solid black;
+    width: fit-content;
+    margin: 0.5rem;
+}
+
+h3{
+    padding: 1rem;
+}
+
+img{
+    max-width: 15rem;
+    max-height: 20rem;
+}
+
+#contenedor{
+    display: flex;
+    flex-direction: row;
+}
+
+
